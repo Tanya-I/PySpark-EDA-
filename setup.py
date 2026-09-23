@@ -6,8 +6,8 @@ setup(
     packages=find_packages(),
     description='A Python package for univariate ,bivariate and multivariate data analysis using PySpark',
     author='Tanya Irani', 
-    author_email='tanyairani22@gmail.com.com',  
-    keywords='data analysis pyspark univariate bivariate mutlivariate statistics',  # Add relevant keywords
+    author_email='tanyairani22@gmail.com',  
+    keywords='data analysis pyspark univariate bivariate multivariate statistics',  # Add relevant keywords
     install_requires=[
         'pyspark>=3.0.0',
         'matplotlib>=3.0.0',
